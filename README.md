@@ -79,8 +79,8 @@ inputs.invoke({"question": "who is issac newton?"})
 
 ### OUTPUT:
 ## Simple Chain:
-![alt text](simple chain.png)
+![image](https://github.com/user-attachments/assets/0ab53c15-fa52-4631-9c78-be14e51ea93b)
 ## More Complex Chain:
-![alt text](complex chain.png)
+![image](https://github.com/user-attachments/assets/a40c68cd-6697-4afc-bf2f-44f26c0e073d)
 ### RESULT:
 Thus, The implementation of a LangChain Expression Language (LCEL) is successfully executed.
